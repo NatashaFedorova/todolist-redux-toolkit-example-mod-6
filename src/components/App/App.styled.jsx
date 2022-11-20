@@ -13,3 +13,14 @@ export const Header = styled.header`
 `;
 
 export const Main = styled.main``;
+
+export const Loading = styled.p`
+  margin: 30px;
+  text-align: center;
+`;
+
+export const Error = styled.p`
+  color: red;
+  margin: 30px;
+  text-align: center;
+`;
